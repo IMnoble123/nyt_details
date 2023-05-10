@@ -2,7 +2,7 @@
 an Nytimes api integrated Application
 
 ## Features
-- Mostviewed arcicles listed
+- Mostviewed articles listed
 - Implemented https://developer.nytimes.com/apis Apis
 - provider as statemanagement
 - Mvc folder structure
