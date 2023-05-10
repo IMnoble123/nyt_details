@@ -20,6 +20,6 @@ Go to the project directory
 
  - flutter pub get
  - Start the server
- - Add your own New York Times API Key to lib/
+ - Add your own New York Times API Key to  lib/modules/most_popular/controllers
 
  - flutter run
