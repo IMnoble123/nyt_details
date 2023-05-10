@@ -1,5 +1,5 @@
 # NYT Details App
-an Nyt api integrated Application
+an Nytimes api integrated Application
 
 ## Features
 - Mostviewed arcicles listed
@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1olhRSxPtwMbHtaUsVK62yrKSrmmG5ZIu/view?usp=share
 ## Run Locally
 Clone the project
 
-  git clone https://github.com/IMnoble123/chefKart.git
+git clone https://github.com/IMnoble123/nyt_details.git
 Go to the project directory
 
   cd my-project
@@ -20,5 +20,6 @@ Go to the project directory
 
  - flutter pub get
  - Start the server
+ - Add your own New York Times API Key to lib/
 
  - flutter run
