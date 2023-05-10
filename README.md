@@ -1,16 +1,24 @@
-# nyt_details
+# NYT Details App
+an Nyt api integrated Application
 
-A new Flutter project.
+## Features
+- Mostviewed arcicles listed
+- Implemented https://developer.nytimes.com/apis Apis
+- provider as statemanagement
+- Mvc folder structure
+## Deployment
+https://drive.google.com/file/d/1olhRSxPtwMbHtaUsVK62yrKSrmmG5ZIu/view?usp=share_link
 
-## Getting Started
+## Run Locally
+Clone the project
 
-This project is a starting point for a Flutter application.
+  git clone https://github.com/IMnoble123/chefKart.git
+Go to the project directory
 
-A few resources to get you started if this is your first Flutter project:
+  cd my-project
+  - Install dependencies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ - flutter pub get
+ - Start the server
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - flutter run
